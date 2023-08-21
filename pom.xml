@@ -11,7 +11,7 @@
       <plugins>
          <plugin>
             <artifactId>maven-war-plugin</artifactId>
-            <version>3.9.4</version>
+            <version>3.3.2</version>
             <configuration>
                <failOnMissingWebXml>false</failOnMissingWebXml>
             </configuration>
